@@ -1,0 +1,1 @@
+# smoshit-webpack-plugin

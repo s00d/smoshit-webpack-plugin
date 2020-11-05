@@ -1,4 +1,4 @@
-# SmoshOt plugin for Webpack
+# SmoshIt plugin for Webpack
 
 [![npm](https://img.shields.io/npm/v/smoshit-webpack-plugin.svg)](https://www.npmjs.com/package/smoshit-webpack-plugin)
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](http://standardjs.com/)

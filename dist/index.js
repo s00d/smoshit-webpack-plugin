@@ -163,7 +163,6 @@ class ImageminPlugin {
                 // run the optimize function and store it in the cache when done
                 let optimizedImageBuffer = await (0, _helpers.getFromCacheIfPossible)(cacheFolder, fileData, async () => {
                     const result = await this.compressor(fileData, filename);
-                    console.log('result', result);
                     return result;
                 });
 

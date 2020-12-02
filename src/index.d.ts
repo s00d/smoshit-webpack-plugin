@@ -24,6 +24,6 @@ declare namespace SmoshItWebpackPlugin {
         timeout?: number;
         context: string;
         destination?: string | (() => string);
-        sources: string[] | (() => string[]);
+        sources?: string[] | (() => string[]);
     }
 }
